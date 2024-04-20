@@ -38,7 +38,7 @@ In the `/Optical priors` folder, `/image` stores the images we collected using f
 
 As shown in the above figure, xl and yl represent the coordinates of the light source, while xf and yf represent the coordinates of the flare, which are always symmetrical about the center of the lens.
 
-![Confirmation](/Optical priors/Confirmation.png)
+<img src="/Optical priors/Confirmation.png" alt="Confirmation" style="zoom:50%;" />
 
 As shown in the above figure, we have presented the annotated data in the figure, further verifying the rationality of optical priors. Due to manual annotation, there may be slight errors in some coordinates.
 
