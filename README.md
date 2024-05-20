@@ -16,7 +16,8 @@ The headlights of motorcycles usually do not affect the detection task of helmet
 **We are gradually opening up.**
 
 1. We uploaded the validation of the optical center prior (April 20, 2024).
-2. 
+2. We've updated the example images and related descriptions (May 20, 2024).
+3. 
 
 ## 3. Optical priors
 
